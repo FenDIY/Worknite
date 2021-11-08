@@ -1,4 +1,24 @@
+# WHAT IS Worknite?
 
+An open source App library manager and launcher with support for 3rd party tools, plugins, etc. forked from Playnite. Providing one unified interface for your games.
+
+## Why the name?
+I just copied the original name, and change it accordingly. Eventually I might name it differently, and do some graphical changes (icons, themes, etc.).
+
+## What would be the features? (basically, why are you doing this)?
+The idea is...:
+ - to remove all the shortcuts on the desktop, taskbar, etc. (yes, there are other options out there).
+ - to have a quick search of the apps you have on worknite ("Do you know that windows has already cortana?" Yes, I do. But this would be only for the apps you want to have on the list (let's call it, your favorites)).
+ - To be able to categorize the apps you use.
+ - to be able to time the usage of the apps you have (roughly).
+ - to have banners, screenshots, etc. for the apps you have on worknite (so far, I haven't found any software that does that).
+ - to have more launching options here than anywhere else.
+ - to make it easier to maintain, using chocolatey (you'll have to download it separately but it would be worth it)(I might add other software like that, like: Cheff, Puppet, NPM, etc.)(don't worry, you would not need to know all of them, it would be a choice).
+ - the launcher would be optimized for speed (as much as I can), so ... it might be ugly as hell, but ... I would welcome devs, designers, and other members of the community to help me improve it).
+ - Yes, this readme is horrible, but ... if I have the time, I see that the idea has a good reception, and ... maybe some sponsorships I would try my best to improve everything arround the app (branding, screenshots, showcase videos, video tutorials, documentation, API, etc.).
+
+
+# ORIGINAL README
 # <img src="https://playnite.link/applogo.png" width="32">  Playnite [![Crowdin](https://badges.crowdin.net/playnite/localized.svg)](https://crowdin.com/project/playnite)
 An open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Includes game emulation support, providing one unified interface for your games.
 
